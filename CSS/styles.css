@@ -21,4 +21,10 @@
   @media (min-width: 1200px) {  
       .xl {color:red;font-weight:bold;}
   }
+
+  .jonas{
+    margin-top: 10em;
+    background-color: aqua;
+    color: red;
+  }
    
